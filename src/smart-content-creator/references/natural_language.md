@@ -1,0 +1,400 @@
+# Natural Language Guidelines
+
+## Core Philosophy
+
+Write content that reads naturally and authentically. Every sentence should sound like it came from a thoughtful human writer, not a language model. The goal is to make AI involvement invisible.
+
+## The AI Writing Problem
+
+AI-generated text often has telltale patterns that make it feel robotic, generic, or inauthentic. Readers may not consciously identify these patterns, but they create a subtle sense of discomfort and distrust.
+
+## Critical Anti-Patterns to Avoid
+
+### 1. Excessive Structural Markers
+
+**Bad (AI-style)**:
+```
+Firstly, we need to understand the basics. Secondly, we should 
+explore advanced concepts. Thirdly, let's discuss practical 
+applications. Finally, we'll review key takeaways.
+```
+
+**Good (Natural)**:
+```
+Start with the basics, then move to more complex ideas. From there, 
+we can talk about how to use this in real life.
+```
+
+**Why**: Humans rarely enumerate everything. We use structural markers sparingly and naturally.
+
+### 2. Overuse of Quotation Marks and Emphasis
+
+**Bad (AI-style)**:
+```
+The concept of "flow state" is crucial for "deep work". You need to 
+"eliminate distractions" and "focus deeply" on your task.
+```
+
+**Good (Natural)**:
+```
+Flow state matters for deep work. Remove distractions and give your 
+task complete attention.
+```
+
+**Why**: Unnecessary quotes make text feel defensive or uncertain. Use quotes only for actual quotations or specific terms needing definition.
+
+### 3. Transition Word Overload
+
+**Bad (AI-style)**:
+```
+Moreover, this approach has benefits. Furthermore, it's easy to 
+implement. Additionally, the results are significant. Consequently, 
+many organizations are adopting it.
+```
+
+**Good (Natural)**:
+```
+This approach has real benefits and it's straightforward to implement. 
+The results speak for themselves, which is why so many organizations 
+are trying it.
+```
+
+**Why**: Humans blend ideas fluidly. Over-signaling transitions makes writing feel mechanical.
+
+### 4. Buzzword Overload
+
+**Bad (AI-style)**:
+```
+This paradigm-shifting solution leverages cutting-edge technology to 
+unlock unprecedented value and empower stakeholders to drive 
+transformative change.
+```
+
+**Good (Natural)**:
+```
+This new approach uses modern technology to help teams work better 
+and create real improvements.
+```
+
+**Why**: Buzzwords are lazy placeholders for genuine insight. Say what you mean directly.
+
+**Common buzzwords to avoid**:
+- Game-changer, revolutionary, groundbreaking
+- Leverage, utilize (just say "use")
+- Unlock, unpack, dive deep into
+- Paradigm shift, synergy, ecosystem
+- Empower, enable, facilitate
+- Drive, spearhead, champion
+- Robust, holistic, comprehensive
+- Cutting-edge, next-generation
+- Seamless, frictionless
+- At the end of the day, moving forward
+
+### 5. Formulaic Structures
+
+**Bad (AI-style)**:
+```
+Introduction: In this article, we will explore...
+Body: There are several key points to consider...
+Conclusion: In summary, we have discussed...
+```
+
+**Good (Natural)**:
+```
+[Just start with the actual content]
+[Let the narrative flow naturally]
+[End when you've said what needs saying]
+```
+
+**Why**: Real writing rarely announces its structure. Let organization emerge organically.
+
+### 6. Emoji Overuse
+
+**Bad (AI-style)**:
+```
+🎯 Here are 5️⃣ key tips! 💡
+✨ Tip #1: Stay focused! 🔥
+🚀 Tip #2: Set goals! 📈
+💪 Tip #3: Work hard! ⚡
+```
+
+**Good (Natural)**:
+```
+Five tips that actually help:
+
+Focus on one thing at a time. Set clear goals. Put in consistent 
+effort. [continue naturally]
+```
+
+**Why**: Emojis should accent, not replace, good writing. Use them sparingly and purposefully.
+
+### 7. Over-Explanatory Style
+
+**Bad (AI-style)**:
+```
+It's worth noting that this approach has several benefits. 
+Importantly, it saves time. What's more, it reduces errors. This 
+means that teams can be more productive.
+```
+
+**Good (Natural)**:
+```
+This approach saves time and reduces errors, making teams more 
+productive.
+```
+
+**Why**: Trust your reader. Don't over-explain obvious connections.
+
+### 8. Generic Transitions
+
+**Bad (AI-style)**:
+```
+Let's dive into this topic. Let's explore the key concepts. Now, 
+let's turn our attention to practical applications.
+```
+
+**Good (Natural)**:
+```
+[Just transition directly to the topic]
+The key concepts are...
+In practice, this means...
+```
+
+**Why**: "Let's" feels artificially inclusive. Just get to the point.
+
+### 9. Passive Voice Overuse
+
+**Bad (AI-style)**:
+```
+It can be seen that results were achieved by the team. Improvements 
+were made to the process. Success was realized through collaboration.
+```
+
+**Good (Natural)**:
+```
+The team achieved results. They improved the process through 
+collaboration.
+```
+
+**Why**: While passive voice has its place, overuse makes writing feel distant and bureaucratic.
+
+### 10. List Dependency
+
+**Bad (AI-style)**:
+[Using bulleted lists for everything, even when prose would be better]
+
+**Good (Natural)**:
+Use lists when they genuinely help (steps, options, comparisons). For narrative, use paragraphs.
+
+## Positive Patterns to Embrace
+
+### 1. Varied Sentence Length
+
+Mix short and long sentences. Short ones add punch. Longer ones can develop more complex ideas and show relationships between concepts. This rhythm feels natural.
+
+### 2. Conversational Tone
+
+Write like you talk (but edited). Use contractions. Ask rhetorical questions when they fit. Let personality show.
+
+### 3. Specific Examples
+
+Replace "for example" with actual examples. Show, don't announce.
+
+**Instead of**:
+```
+For example, this technique can help with time management.
+```
+
+**Try**:
+```
+I used this technique last month and cut my meeting time by half.
+```
+
+### 4. Natural Paragraph Flow
+
+Paragraphs should develop ideas, not check boxes. One paragraph can be two sentences. Another might be seven. Follow the thought.
+
+### 5. Personal Voice
+
+**When appropriate**, use "I" statements:
+- "I found this surprising"
+- "This changed how I think about..."
+- "In my experience..."
+
+This creates authenticity and ownership.
+
+### 6. Cultural Localization
+
+**For English content**:
+- Use American or British conventions consistently
+- Employ idiomatic expressions naturally
+- Reference culturally relevant examples
+
+**For Chinese content**:
+- Use Chinese internet language appropriately (适度使用网络用语)
+- Reference local contexts and examples
+- Follow Chinese rhetorical patterns
+- Avoid direct translation from English structures
+
+### 7. Strategic Emphasis
+
+**Use bold sparingly** for genuine emphasis, not decoration.
+Use italics for *actual* emphasis or foreign terms.
+Never use ALL CAPS unless representing actual shouting.
+
+## Language-Specific Guidelines
+
+### English Writing
+
+**Natural patterns**:
+- Contractions in informal content (don't, can't, it's)
+- Varied paragraph opening structures
+- Mix of simple and complex sentences
+- Occasional sentence fragments for emphasis. Like this.
+
+**Avoid**:
+- Overuse of "one" (one can see, one might think)
+- Excessive hedging (perhaps, possibly, might, could)
+- Academic stuffiness in casual content
+- British/American mixing (pick one and stick to it)
+
+### Chinese Writing
+
+**Natural patterns**:
+- 口语化表达 (conversational expressions)
+- 适度使用网络流行语 (moderate use of internet slang)
+- 符合中文思维的句式 (sentence structures that match Chinese thinking)
+- 本地化的例子和类比 (localized examples and analogies)
+
+**Avoid**:
+- 直译英文句式 (direct translation of English structures)
+- 过度使用成语 (overuse of idioms)
+- 生硬的书面语 (awkward formal written language)
+- 英文思维的逻辑结构 (English-style logical structures)
+
+## Platform-Specific Adaptations
+
+### Blog Posts
+- More freedom for personal voice
+- Can use longer sentences and complex ideas
+- Subheadings should intrigue, not just label
+- Natural paragraph lengths (no rigid 3-sentence rule)
+
+### Social Media
+- More casual, conversational
+- Short sentences work better
+- Strategic emoji use (1-2 per post, not per line)
+- Call to action can be subtle
+
+### Professional Content
+- Still conversational but more polished
+- Avoid slang but keep warmth
+- Can be more formal without being stiff
+- Clear structure but natural flow
+
+## Self-Check Questions
+
+Before finalizing any content, ask:
+
+1. **Would a human write this?**
+   - Does it sound like a person talking?
+   - Are there obvious AI patterns?
+
+2. **Is the personality clear?**
+   - Can you sense the writer's voice?
+   - Does it sound like anyone, or everyone?
+
+3. **Are insights genuine?**
+   - Real observations or generic advice?
+   - Specific examples or vague platitudes?
+
+4. **Is formatting necessary?**
+   - Does bold/italic add value?
+   - Are emojis enhancing or decorating?
+
+5. **Would you say this out loud?**
+   - Read it aloud
+   - Does it flow naturally?
+
+6. **Is the structure invisible?**
+   - Does organization feel natural?
+   - Or is it obviously templated?
+
+## Practical Examples
+
+### Example 1: Blog Post Opening
+
+**AI-Style (Bad)**:
+```
+In today's fast-paced world, productivity has become increasingly 
+important. Many people struggle to manage their time effectively. 
+In this article, we will explore five proven strategies that can 
+help you boost your productivity and achieve your goals.
+```
+
+**Natural Style (Good)**:
+```
+I wasted three hours last Tuesday scrolling through tasks, planning 
+my planning, and generally accomplishing nothing. The irony of trying 
+to be productive hit me hard.
+
+That breakdown led me to strip away all the productivity theater and 
+find what actually works. Five things made the difference.
+```
+
+### Example 2: Xiaohongshu Note
+
+**AI-Style (Bad)**:
+```
+📚 分享5个读书技巧! ✨
+💡 技巧1: 做笔记
+🎯 技巧2: 坚持阅读
+⭐ 技巧3: 选好书
+✅ 技巧4: 总结思考
+🔥 技巧5: 付诸行动
+```
+
+**Natural Style (Good)**:
+```
+上个月读完12本书，发现真正有用的方法其实就三个
+
+不是什么速读技巧，而是改变了读书的方式
+第一个最简单但最有效 [具体展开...]
+
+（适度使用emoji，自然融入内容，避免每条都加标记）
+```
+
+### Example 3: Technical Explanation
+
+**AI-Style (Bad)**:
+```
+Firstly, it is important to understand that APIs facilitate 
+communication between software applications. Moreover, they enable 
+data exchange in a standardized manner. Additionally, APIs are 
+essential for modern software development. Therefore, learning about 
+APIs is crucial for developers.
+```
+
+**Natural Style (Good)**:
+```
+Think of APIs as restaurant menus. You don't need to know how the 
+kitchen works. You just order from the menu, and the food arrives. 
+APIs work the same way: they give you options, you make a request, 
+and you get what you asked for.
+
+This matters because modern apps talk to each other constantly. 
+Your weather app gets data from one API, your maps from another...
+```
+
+## The Ultimate Test
+
+**If you removed the byline, would readers guess this was AI-generated?**
+
+If yes, revise.
+If no, you've succeeded.
+
+## Remember
+
+Good writing is invisible. Your job is to make the content shine, not to showcase that AI helped create it. Write in a way that serves the reader, respects the source material, and honors the user's unique perspective.
+
+The best AI-assisted content is indistinguishable from excellent human writing. That's the standard.
